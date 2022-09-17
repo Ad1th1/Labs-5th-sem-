@@ -1,3 +1,5 @@
+// doesn't blink 
+
 #include<LPC17xx.h>
 unsigned int i,j;
 unsigned long LED = 0x00000010;
